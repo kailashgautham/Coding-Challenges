@@ -1,0 +1,3 @@
+/Users/kailashgautham/Developer/Coding-Challenges/wc/build/CMakeFiles/ccwc.dir
+/Users/kailashgautham/Developer/Coding-Challenges/wc/build/CMakeFiles/edit_cache.dir
+/Users/kailashgautham/Developer/Coding-Challenges/wc/build/CMakeFiles/rebuild_cache.dir
